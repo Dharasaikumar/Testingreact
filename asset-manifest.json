@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dharasaikumar/reacttestjs.git/static/css/main.b7acbbfd.chunk.css",
+    "main.js": "/Dharasaikumar/reacttestjs.git/static/js/main.bbc0321e.chunk.js",
+    "main.js.map": "/Dharasaikumar/reacttestjs.git/static/js/main.bbc0321e.chunk.js.map",
+    "runtime-main.js": "/Dharasaikumar/reacttestjs.git/static/js/runtime-main.348857e0.js",
+    "runtime-main.js.map": "/Dharasaikumar/reacttestjs.git/static/js/runtime-main.348857e0.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/Dharasaikumar/reacttestjs.git/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.1f0204f8.chunk.js": "/Dharasaikumar/reacttestjs.git/static/js/2.1f0204f8.chunk.js",
+    "static/js/2.1f0204f8.chunk.js.map": "/Dharasaikumar/reacttestjs.git/static/js/2.1f0204f8.chunk.js.map",
+    "static/js/3.6d6ad4db.chunk.js": "/Dharasaikumar/reacttestjs.git/static/js/3.6d6ad4db.chunk.js",
+    "static/js/3.6d6ad4db.chunk.js.map": "/Dharasaikumar/reacttestjs.git/static/js/3.6d6ad4db.chunk.js.map",
+    "index.html": "/Dharasaikumar/reacttestjs.git/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/Dharasaikumar/reacttestjs.git/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.b7acbbfd.chunk.css.map": "/Dharasaikumar/reacttestjs.git/static/css/main.b7acbbfd.chunk.css.map",
+    "static/js/2.1f0204f8.chunk.js.LICENSE.txt": "/Dharasaikumar/reacttestjs.git/static/js/2.1f0204f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348857e0.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.1f0204f8.chunk.js",
+    "static/css/main.b7acbbfd.chunk.css",
+    "static/js/main.bbc0321e.chunk.js"
+  ]
+}
